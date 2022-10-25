@@ -1,10 +1,12 @@
 import './App.css'
-import ColorRenderer from './color-renderer/ColorRenderer'
+// import ColorRenderer from './color-renderer/ColorRenderer'
+import DarkMode from './darkmode/DarkMode'
 
 function App () {
   return (
     <div className='App'>
-      <ColorRenderer />
+      {/* <ColorRenderer /> */}
+      <DarkMode />
     </div>
   )
 }
