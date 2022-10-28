@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# react-code-challenges
+<img width="450" alt="Dog Pics" src="https://user-images.githubusercontent.com/56365809/198589987-3d1f4765-4df1-4533-9a24-904af5622272.png"> <img width="450" alt="Color Renderer" src="https://user-images.githubusercontent.com/56365809/198592123-01d5b126-9bdb-423a-a13f-81672fc921c0.png"> <img width="353" alt="Dark-Light Mode" src="https://user-images.githubusercontent.com/56365809/198599515-f618e4f1-3a60-491f-aee6-e0306087320e.png"> <img width="350" alt="Form Validator" src="https://user-images.githubusercontent.com/56365809/198592966-574a411e-2132-4de9-a007-ffcffce50f44.png"> <img width="350" alt="Score Keeper" src="https://user-images.githubusercontent.com/56365809/198594477-d537bae9-dcf3-485e-a516-ef0a7939b9e4.png">
+
+
+
+
+
+>>>>>>> main

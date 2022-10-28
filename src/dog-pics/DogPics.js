@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 import './DogPics.css'
+=======
+>>>>>>> main
 import { useEffect, useState } from 'react'
 
 const getDogPic = async () => {
