@@ -1,80 +1,10 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+<<<<<<< REACT CODE CHALLENGES
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# react-code-challenges
-<img width="450" alt="Dog Pics" src="https://user-images.githubusercontent.com/56365809/198589987-3d1f4765-4df1-4533-9a24-904af5622272.png"> <img width="450" alt="Color Renderer" src="https://user-images.githubusercontent.com/56365809/198592123-01d5b126-9bdb-423a-a13f-81672fc921c0.png"> <img width="353" alt="Dark-Light Mode" src="https://user-images.githubusercontent.com/56365809/198599515-f618e4f1-3a60-491f-aee6-e0306087320e.png"> <img width="350" alt="Form Validator" src="https://user-images.githubusercontent.com/56365809/198592966-574a411e-2132-4de9-a007-ffcffce50f44.png"> <img width="350" alt="Score Keeper" src="https://user-images.githubusercontent.com/56365809/198594477-d537bae9-dcf3-485e-a516-ef0a7939b9e4.png">
+<img width="450" alt="DogPics" src="https://user-images.githubusercontent.com/56365809/198688278-7f9d57ce-a490-48cf-9026-75967d4d27e0.png">
+<img width="450" alt="Color Renderer" src="https://user-images.githubusercontent.com/56365809/198688318-42ef2a7d-cf28-4128-8c09-83aaedcaebb7.png">
+<img width="450" alt="Dark-Light Mode" src="https://user-images.githubusercontent.com/56365809/198688361-680dc466-70ce-4fdc-9459-3306f1a2d881.png">
+<img width="450" alt="Form Validator" src="https://user-images.githubusercontent.com/56365809/198688391-4a129cf4-323f-4c31-bfb9-dc13274d5d95.png">
+<img width="450" alt="Score Keeper" src="https://user-images.githubusercontent.com/56365809/198688403-d9082819-7442-40db-8cff-b78abc27b728.png">
 
 
 
-
-
->>>>>>> main
