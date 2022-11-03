@@ -1,12 +1,15 @@
 import { useEffect } from "react"
 
-export default function WindowEvent (){
+export default function WindowEvent () {
     useEffect(() => {
-        const doubleClick = () => alert('Mouse is clicked')
-        window.addEventListener('dblclick', doubleClick)
-        return () => window.removeEventListener('dblclick', doubleClick)
+      const doubleClick = () => alert('mouse pressed')
+  
+      window.addEventListener('dblclick', doubleClick)
+  
+      return () => window.removeEventListener('dblclick', doubleClick)
     }, [])
     return (
-        <h2>Window is active !!</h2>
+      <h2>Window event is active</h2>
     )
-}
+  }
+

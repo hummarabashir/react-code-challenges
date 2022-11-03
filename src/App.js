@@ -4,7 +4,9 @@ import './App.css'
 // import DogPics from './dog-pics/DogPics'
 // import FormValidator from './form-validator/FormValidator'
 // import ScoreKeeper from './score-keeper/ScoreKeeper'
-  import toggleevent from './window-event/toggleevent'
+// import Toggleevent from './window-event/Toggleevent'
+// import ColorPicker from './color-picker/ColorPicker'
+import PixelArt from './pixel-art/PixelArt'
 
 function App () {
   return (
@@ -14,7 +16,9 @@ function App () {
       {/* <DogPics /> */}
       {/* <FormValidator /> */}
       {/* <ScoreKeeper /> */}
-      <toggleevent />
+      {/* <Toggleevent /> */}
+      {/* <ColorPicker /> */}
+      <PixelArt />
     </div>
   )
 }
