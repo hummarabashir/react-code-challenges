@@ -12,3 +12,4 @@ export default function WindowEvent () {
       <h2>Window event is active</h2>
     )
   }
+
